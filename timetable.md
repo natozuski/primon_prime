@@ -6,6 +6,7 @@ per period:
 * [x] 1 photo
 * [x] 1 video (i.e. music video)
 * [x] 1 licensing re-draft
+* [ ] 1 full manifest upload
 
 also:
 
