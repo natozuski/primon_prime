@@ -4,7 +4,7 @@ per period:
 
 * [x] 1 song (i.e. lyrics)
 * [x] 1 photo
-* [ ] 1 video (i.e. music video)
+* [x] 1 video (i.e. music video)
 * [x] 1 licensing re-draft
 
 also:
