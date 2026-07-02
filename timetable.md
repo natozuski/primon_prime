@@ -9,8 +9,9 @@ per period:
 
 also:
 
+* [x] 1 check socials for new live releases
+* [x] 1 check distros
 * 1 food to eat for that period
-* 1 check socials for new live releases
 
 ### meta
 
